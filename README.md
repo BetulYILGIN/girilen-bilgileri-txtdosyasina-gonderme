@@ -1,0 +1,1 @@
+# girilen-bilgileri-txtdosyasina-gonderme
